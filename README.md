@@ -1,6 +1,8 @@
 # Eye Disease Classification Using Dual-Branch CNN Architecture
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/1fb55b35-1dbf-4f55-9546-061b3d105570" />
-<img width="192" alt="image" src="https://github.com/user-attachments/assets/2790555d-0799-45eb-96c2-5c0c595c3c50" />
+<img width="194" alt="image" src="https://github.com/user-attachments/assets/48962e92-c50b-470b-8242-8b16ce959771" />
+<img width="194" alt="image" src="https://github.com/user-attachments/assets/8a1b5dce-2088-434c-82fd-bee26eb886fb" />
+
 
 
 
